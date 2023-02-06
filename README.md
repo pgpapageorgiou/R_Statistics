@@ -1,2 +1,2 @@
-# R_Statistics-
+# R_Statistics
 Statistics in R
